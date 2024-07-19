@@ -3,7 +3,12 @@
 
 ## Mother complex
 
-### Symptoms
+The mother is usually the primary attachment
+The relationship with the mother sets the pattern of female attachment
+A split mother is likely to split the child
+The splits underly the symptoms
+
+### Symptoms (one or many)
 * Fear of approaching women
 * Fetishizing body parts
 * Pornography addiction
@@ -16,11 +21,15 @@
 * Hormonal imbalance
 * Emotional disturbaces
 * Cognitive malfunction
+* Somatic disease
 * Low energy
+* Depression
 
 ### Cause
-Violent and sexual abuse by mother in childhood
+Violent and/or sexual abuse by mother in childhood
 
 ### Treatment
 * Psychoanalysis
-* Creative expression
+
+### Result of treatment
+If memory is fully restored, all symptoms dissipate
