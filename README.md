@@ -13,8 +13,8 @@ The splits underly the symptoms
 * Fetishizing body parts
 * Pornography addiction
 * Mothers prescence causes behavioural change
-*   Pattern of speach
-*   Pattern of movement
+  * Pattern of speach
+  * Pattern of movement
 * Failing romantic relationships
 * Memory loss
 * Reduced concentration
