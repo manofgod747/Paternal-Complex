@@ -8,7 +8,7 @@ The relationship with the mother sets the pattern of female attachment
 A split mother is likely to split the child
 The son looses the ability to form healthy boundaries
 He allows women to determine his will
-Women project monogamy onto men
+He allows women to decide how he relates to other women
 
 ### Symptoms (one or many)
 * Fear of approaching women
