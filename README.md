@@ -6,7 +6,9 @@
 The mother is usually the primary attachment
 The relationship with the mother sets the pattern of female attachment
 A split mother is likely to split the child
-The splits underly the symptoms
+The son looses the ability to form healthy boundaries
+He allows women to determine his will
+Women project monogamy onto men
 
 ### Symptoms (one or many)
 * Fear of approaching women
@@ -25,14 +27,18 @@ The splits underly the symptoms
 * Somatic disease
 * Low energy
 * Depression
+* Low empathy
+* Low confidence
 * Psychosis
-  * Insane reality judgement 
+  * Insane reality judgement
+  * Proneness to ideological propaganda
+
 
 ### Cause
 Violent and/or sexual abuse by mother in early childhood
 
 ### Treatment
-* Psychoanalysis
+Psychoanalysis
 
 ### Result of treatment
 If memory is fully restored, all symptoms dissipate
