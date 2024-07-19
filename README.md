@@ -13,8 +13,9 @@ The splits underly the symptoms
 * Fetishizing body parts
 * Pornography addiction
 * Mothers prescence causes behavioural change
-  * Pattern of speach
-  * Pattern of movement
+  * Pattern of speech
+  * Body composure
+  * Movement
 * Failing romantic relationships
 * Memory loss
 * Reduced concentration
@@ -26,7 +27,7 @@ The splits underly the symptoms
 * Depression
 
 ### Cause
-Violent and/or sexual abuse by mother in childhood
+Violent and/or sexual abuse by mother in early childhood
 
 ### Treatment
 * Psychoanalysis
