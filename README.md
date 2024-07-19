@@ -25,6 +25,8 @@ The splits underly the symptoms
 * Somatic disease
 * Low energy
 * Depression
+* Psychosis
+  * Insane reality judgement 
 
 ### Cause
 Violent and/or sexual abuse by mother in early childhood
